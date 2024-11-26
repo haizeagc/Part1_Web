@@ -1,11 +1,7 @@
-# React + Vite
+# CourseInfo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pagina pueba para aprender sobre los diferentes bloques que ofrece react para poder crear paginas webs con promps.
 
-Currently, two official plugins are available:
+Para ejecutar la web
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
-npm run dev
+        npm run dev

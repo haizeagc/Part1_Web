@@ -1,8 +1,8 @@
-# React + Vite
+# Anecdotes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Pagina que ofrece diferentes anecdotas aleatoriamente click-ando a los botones. Tambien se ofrece la opcion de votar por el que más te gusta.
 
-Currently, two official plugins are available:
+Para ejecutar la web
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+        npm run dev
+
