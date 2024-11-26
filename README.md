@@ -1,6 +1,6 @@
 ### PARA CREAR UNA NUEVA APP
 
-      mpm create vite@latest NOMBRE --template react
+      npm create vite@latest NOMBRE --template react
 
 ### DESPUES
 
